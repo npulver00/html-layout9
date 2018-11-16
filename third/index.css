@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    height: 75vh;
+}
+header{
+    background-color: lightgray;
+    height: 125px;
+}
+#square{
+    background-color: blue;
+    height: 90px;
+    width: 90px;
+    margin: 0px 50px 50px 75px;
+    padding-top: 50px;
+}
+.text{
+    background-color: white;
+    height: 280px;
+    text-align: center;
+    font-size: 28px;
+    padding: 40px;
+    text-indent: 10px;
+    font-weight: 100;
+    font-family: cursive;
+}
+.blue{
+    background-color: blue;
+    height: 120px;
+}
+.teal{
+    background-color: teal;
+    height: 120px;
+}
+.grey{
+    background-color: rgb(184, 209, 114);
+    height: 120px;
+}
+.gold{
+    background-color: gold;
+    height: 120px;
+}

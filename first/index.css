@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+.main{
+    height: 100vh;
+    width: 100vw;
+   
+}
+.rectangletop{
+    background-color: darkgrey;
+    height: 20vh;
+    width: 100vw;
+}
+.rectangleleft{
+    background-color: lightgray;
+    height: 100vh;
+    width: 15vw;
+    float: left;   
+}
+.rectangleright{
+    background: lightgray;
+    height: 100vh;
+    width: 15vw;
+    float: right;
+   
+}
+.rectangleinside{
+    background-color:white;
+    height: 20vh;
+    width: 100vw;
+    padding-top: 40%;
+    
+}
